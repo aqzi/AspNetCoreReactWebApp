@@ -1,4 +1,4 @@
-# AspNetCore-React-WebApp
+# AspNetCore-React-WebApp (.net 7)
 This project provides an improvement for the .net react template with authentication.
 Most javascript files are replaced with typescript files. 
 The sql database from the original template is replaced with a postgres database.
