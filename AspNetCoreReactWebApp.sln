@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreReactWebApp", "AspNetCoreReactWebApp.Web\AspNetCoreReactWebApp.Web.csproj", "{F4AB075D-3237-43E3-B7AD-04824D518288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreReactWebApp.Data", "AspNetCoreReactWebApp.Data\AspNetCoreReactWebApp.Data.csproj", "{3240DA08-7DC2-4ABE-8483-18142815FA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreReactWebApp.Domain", "AspNetCoreReactWebApp.Domain\AspNetCoreReactWebApp.Domain.csproj", "{47E3F9DA-ABC1-4892-BA27-478ADCD9C68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AB075D-3237-43E3-B7AD-04824D518288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AB075D-3237-43E3-B7AD-04824D518288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AB075D-3237-43E3-B7AD-04824D518288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AB075D-3237-43E3-B7AD-04824D518288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3240DA08-7DC2-4ABE-8483-18142815FA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3240DA08-7DC2-4ABE-8483-18142815FA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3240DA08-7DC2-4ABE-8483-18142815FA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3240DA08-7DC2-4ABE-8483-18142815FA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E3F9DA-ABC1-4892-BA27-478ADCD9C68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E3F9DA-ABC1-4892-BA27-478ADCD9C68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E3F9DA-ABC1-4892-BA27-478ADCD9C68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E3F9DA-ABC1-4892-BA27-478ADCD9C68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
